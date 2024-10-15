@@ -1,7 +1,7 @@
 
 const fs = require('fs');
 const csv = require('csv-parser')
-const db = require('../models/db')
+const db = require('../models/locationModel')
 
 const importCSV = (filePath) => {
     return new Promise((resolve, reject) => {
