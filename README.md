@@ -4,18 +4,18 @@ Team project for study
 
 ## Project Structures
 
-📦src
- ┣ 📂controllers
- ┣ 📂models
- ┣ 📂public
- ┃ ┣ 📂css
- ┃ ┣ 📂images
- ┃ ┗ 📂js
- ┣ 📂routes
- ┣ 📂services
- ┣ 📂test
- ┗ 📂views
-   ┗ 📂user
+📦src   
+ ┣ 📂controllers   
+ ┣ 📂models   
+ ┣ 📂public   
+ ┃ ┣ 📂css   
+ ┃ ┣ 📂images   
+ ┃ ┗ 📂js   
+ ┣ 📂routes   
+ ┣ 📂services   
+ ┣ 📂test   
+ ┗ 📂views   
+   ┗ 📂user   
 
 ### Controllers
 
